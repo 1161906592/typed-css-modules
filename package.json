@@ -1,0 +1,28 @@
+{
+  "name": "typed-css-modules",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1161906592/typed-css-modules.git"
+  },
+  "keywords": [
+    "css-module",
+    "typescript",
+    "codegen"
+  ],
+  "author": "liuyang <1161906592@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1161906592/typed-css-modules/issues"
+  },
+  "homepage": "https://github.com/1161906592/typed-css-modules#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.31",
+    "postcss-modules": "^4.3.1",
+    "typescript": "^4.6.4"
+  }
+}
